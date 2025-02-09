@@ -1,0 +1,11 @@
+Hi This Git Learning !
+add files
+git add filename
+git add .
+
+remove File
+ git rm --cached filename
+ then commit
+ 
+ see the difference after added the staging area 
+ git diff --staged
