@@ -9,3 +9,7 @@ remove File
  
  see the difference after added the staging area 
  git diff --staged
+ 
+ git push
+ =================
+ git push origin main
