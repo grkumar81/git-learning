@@ -13,3 +13,12 @@ remove File
  git push
  =================
  git push origin main
+ 
+ git show
+ =================
+ git show <tag name>
+ 
+ git tag
+ ====================
+ git tag <name>
+ 
