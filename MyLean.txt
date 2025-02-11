@@ -22,3 +22,24 @@ remove File
  ====================
  git tag <name>
  
+ git create mew branch
+ ===================
+ git switch -c <branchname>
+ 
+ git checkout -b <branchaname>
+ 
+ git switch -b <branchname>
+ 
+ git switch <branchname>
+ 
+ git switch -
+ 
+ git branch
+ gti branch all
+ 
+ delete brach
+ ====================
+ git branch -d <branchname>
+ 
+ ========================================================
+ 
